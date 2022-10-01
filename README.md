@@ -1,6 +1,6 @@
 .
 <h1 align="center">Hi 👋, I'm Harsh Mahan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 -🌱 I’m currently learning dsa, nextjs <br>
 - 👀 I’m interested in frontend development <br>
 
